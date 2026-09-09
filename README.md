@@ -29,20 +29,31 @@ A company wants to automate the monthly salary calculation of its employees.
 4. Calculate tax and deductions.
 5. Calculate net salary.
 6. Generate and display the employee payslip.
+ 
 ## Sample Output
 
-```text
-========== EMPLOYEE PAYSLIP ==========
+Enter details for Employee 1
+Enter Employee ID: 60
+Enter Performance (0-100): 95
+Enter Basic Salary: 30000
+Enter Allowance: 5000
+Enter Overtime: 1000
+Enter Deduction: 2000
 
-Employee ID      : 101
-Employee Name    : Arun
-Basic Salary     : 30000.00
-Allowance        : 5000.00
-Overtime         : 2000.00
-Bonus            : 3000.00
-Gross Salary     : 40000.00
-Tax              : 4000.00
-Deduction        : 1000.00
-Net Salary       : 35000.00
+Enter details for Employee 2
+Enter Employee ID: 53
+Enter Performance (0-100): 96
+Enter Basic Salary: 31000
+Enter Allowance: 5500
+Enter Overtime: 1500
+Enter Deduction: 2000
 
-=======================================
+ID = 60
+Gross Salary = 36000.00
+Bonus = 1000.00
+Net Salary = 35000.00
+
+ID = 53
+Gross Salary = 38000.00
+Bonus = 1000.00
+Net Salary = 37000.00
