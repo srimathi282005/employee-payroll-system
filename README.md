@@ -29,10 +29,10 @@ A company wants to automate the monthly salary calculation of its employees.
 4. Calculate tax and deductions.
 5. Calculate net salary.
 6. Generate and display the employee payslip.
-
 ## Sample Output
 
-========= EMPLOYEE PAYSLIP========== 
+```text
+========== EMPLOYEE PAYSLIP ==========
 
 Employee ID      : 101
 Employee Name    : Arun
@@ -45,4 +45,4 @@ Tax              : 4000.00
 Deduction        : 1000.00
 Net Salary       : 35000.00
 
-====================================
+=======================================
