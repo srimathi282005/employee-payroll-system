@@ -32,8 +32,6 @@ A company wants to automate the monthly salary calculation of its employees.
  
 ## Sample Output
 
-## Sample Output
-
 ```text
 Enter details for Employee 1
 Enter Employee ID: 60
